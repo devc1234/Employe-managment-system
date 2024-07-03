@@ -23,7 +23,25 @@ Step 1: Create Spring Boot Project
 
 Spring Boot provides a web tool called Spring Initializer to bootstrap an application quickly. Follow these steps:
 
+Employee managment system We perform
 
+ * List Employees
+
+ * Add Employee
+
+ * Update Employee
+
+ * Delete Employee
+
+ * Pagination
+
+ * Sorting
+
+ * User Login
+
+ * User Registration
+
+ * User Logout
 
 
 Use the following details:
